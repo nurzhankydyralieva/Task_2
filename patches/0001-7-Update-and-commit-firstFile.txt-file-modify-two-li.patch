@@ -1,0 +1,24 @@
+From bb94f7abccdbf5fe59bb6f1e7e1cfb338b1e1a6e Mon Sep 17 00:00:00 2001
+From: Nurzhan <nurzhankydyralieva@gmail.com>
+Date: Sun, 24 Sep 2023 17:33:27 +0600
+Subject: [PATCH] 7)  Update and commit firstFile.txt file, modify two lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 6a2897f..8aa1a24 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Hard frost and sunshine - a day of pleasure!
+-You are still drowsy at your leisure –
++Your mood was cheerlessly shifting –
++Look now – what a change has been!
+ It’s time, my beauty, ope your eyes!
+ Let you get free of blissful dreaming,
+ To meet the North Aurora, deeming
+-- 
+2.26.2.windows.1
+
